@@ -31,7 +31,7 @@ Using historical climate data, this project examines long-term temperature trend
 
 
 
-##  Conclusion
+##  Conclusion:
 
    This study supports observations of global climate change by confirming that the United States, China, and India have all seen notable warming over the past century. Both regional and universal trends are revealed by the analysis, including greater variability in the U.S. and higher mean temperatures in India. These results highlight how crucial localized climate monitoring and policy action are. The project can act as a starting point for further studies that incorporate other factors like CO2 emissions, urbanization indices, or socioeconomic effects.
 
