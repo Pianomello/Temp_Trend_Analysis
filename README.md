@@ -16,8 +16,13 @@ Using historical climate data, this project examines long-term temperature trend
 
 ## 📊 Key Insights:
 
-   -
+   - Distribution Patterns:
+        - Given its naturally warmer climate, India's temperature distribution is skewed toward higher average values than those of China and the US, according to histograms with KDE overlays. Because of its varied climate zones, the U.S. exhibits the greatest spread.
    
+   - City-Level Trends:
+     
+   - Temporal Trends:
+   - Cross-Country Comparison:
 
 
 
