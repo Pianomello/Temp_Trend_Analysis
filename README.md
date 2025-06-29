@@ -20,12 +20,13 @@ Using historical climate data, this project examines long-term temperature trend
         - Given its naturally warmer climate, India's temperature distribution is skewed toward higher average values than those of China and the US, according to histograms with KDE overlays. Because of its varied climate zones, the U.S. exhibits the greatest spread.
    
    - City-Level Trends:
+        - The impact of regional geography and intercity variability are highlighted by city-stratified scatterplots. Interestingly, some cities routinely exhibit either higher or lower baseline temperatures, most likely as a result of urbanization, latitude, or elevation.
      
    - Temporal Trends:
+        - Average annual temperature line plots show a distinct upward trend in all three nations, especially after 1970. This pattern confirms assessments of global warming caused by climate change.
+             
    - Cross-Country Comparison:
-
-
-
+        - All three countries show significant warming, according to country-level trend plots from 1900 onward. However, India exhibits more noticeable year-to-year variability in the rate and consistency of warming.
 
 
 
